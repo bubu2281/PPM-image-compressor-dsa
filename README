@@ -1,0 +1,27 @@
+/* STEFAN Alexandru - 315CB */
+
+Punctaj local obtinut: 80 + 20 bonus
+
+Cerinta 1:
+    -am deschis toate fisierele si am citit latimea si inaltimea imaginii
+    -am alocat dinamic matricea cu elem de tip culoare ce urmeaza a fi
+    folosita ulterior
+    -am citit din fisier matricea de culori
+    -am construit arborele
+    -am facut cate o functie pentru fiecare dintre statisticile necesare
+    la cerinta 1
+    -am dezalocat toata memoria alocata anterior pentru cerinta 1
+
+Cerinta 2:
+    -pana la generarea arborelui de compresie totul este exact ca la cerinta 1
+    -am generat fisierul de compresie conform cerintei
+    -am dezalocat toata memoria folosita
+
+Cerinta 3:
+    -dupa deschiderea fisierelor aferente
+    -am generat arborele de compresie cu ajutorul fisierului de compresie
+    primit ca argument
+    -am alocat dinamic matricea cu elemente de tip culoare
+    -cu o functie am generat matricea pe baza arborelui
+    -cu alta functie am generat imaginea cu ajutorul matricei imaginii
+    -in final am dezalocat toata memoria alocata anterior
